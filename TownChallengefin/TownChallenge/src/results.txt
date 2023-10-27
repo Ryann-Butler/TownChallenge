@@ -1,0 +1,28 @@
+Banbridge 7 Coleraine 6
+Ballymoney 2 Belfast 0
+Newry 1 Enniskllen 4
+Portadown 0 Bangor 2
+ Homes 2, Draws 0, Aways 2
+Banbridge 0 Coleraine 0
+Ballymoney 7 Belfast 8
+Newry 4 Enniskllen 5
+Portadown 2 Bangor 9
+ Homes 2, Draws 1, Aways 5
+Banbridge 9 Coleraine 8
+Ballymoney 5 Belfast 6
+Newry 0 Enniskllen 4
+Portadown 7 Bangor 9
+Homes 1, Draws 0, Aways 3
+
+Banbridge 6 Coleraine 7
+Ballymoney 1 Belfast 5
+Newry 6 Enniskllen 2
+Portadown 9 Bangor 5
+Homes 3, Draws 0, Aways 5
+
+Banbridge 4 Coleraine 9
+Ballymoney 7 Belfast 4
+Newry 7 Enniskllen 5
+Portadown 7 Bangor 4
+Homes 6, Draws 0, Aways 6
+
